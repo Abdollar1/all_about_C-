@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1576022839 source:c:\users\amasap dasty\desktop\opp c++\question 3\main.cpp
+	<iostream>
+	"person.h"
+	"major.h"
+
+1576022430 c:\users\amasap dasty\desktop\opp c++\question 3\include\person.h
+	<iostream>
+
+1576022377 source:c:\users\amasap dasty\desktop\opp c++\question 3\src\person.cpp
+	"person.h"
+
+1576022839 c:\users\amasap dasty\desktop\opp c++\question 3\include\major.h
+	<person.h>
+	<iostream>
+
+1576023094 source:c:\users\amasap dasty\desktop\opp c++\question 3\src\major.cpp
+	"major.h"
+
+1576023497 source:c:\users\amasap dasty\desktop\opp c++\question 3\src\minor.cpp
+	"minor.h"
+
+1576023497 c:\users\amasap dasty\desktop\opp c++\question 3\include\minor.h
+	<person.h>
+	<iostream>
+

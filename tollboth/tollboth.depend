@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574158466 source:c:\users\amasap dasty\desktop\opp c++\tollboth\main.cpp
+	<iostream>
+	"tollboth.h"
+
+1574158067 c:\users\amasap dasty\desktop\opp c++\tollboth\include\tollboth.h
+	<iostream>
+
+1574158890 source:c:\users\amasap dasty\desktop\opp c++\tollboth\src\tollboth.cpp
+	"tollboth.h"
+

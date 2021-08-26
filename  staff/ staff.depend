@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1571831583 source:c:\users\amasap dasty\desktop\opp c++\ staff\main.cpp
+	<iostream>
+	<staff.h>
+	<non_academic.h>
+	<academic.h>
+
+1571827450 c:\users\amasap dasty\desktop\opp c++\ staff\include\staff.h
+	<iostream>
+
+1571831945 source:c:\users\amasap dasty\desktop\opp c++\ staff\src\staff.cpp
+	"staff.h"
+
+1571830959 source:c:\users\amasap dasty\desktop\opp c++\ staff\src\non_academic.cpp
+	"non_academic.h"
+
+1571827963 c:\users\amasap dasty\desktop\opp c++\ staff\include\non_academic.h
+	<staff.h>
+	<iostream>
+
+1571829567 c:\users\amasap dasty\desktop\opp c++\ staff\include\academic.h
+	<staff.h>
+
+1571829934 source:c:\users\amasap dasty\desktop\opp c++\ staff\src\academic.cpp
+	"academic.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1571554194 source:c:\users\amasap dasty\desktop\opp c++\tollbooth\main.cpp
+	<iostream>
+	<tollbooth.h>
+
+1570642767 source:c:\users\amasap dasty\desktop\opp c++\tollbooth\src\tollbooth.cpp
+	"tollbooth.h"
+	<iostream>
+
+1571554795 c:\users\amasap dasty\desktop\opp c++\tollbooth\include\tollbooth.h
+
+1571554194 source:c:\users\amasap dasty\desktop\oop c++\tollbooth\main.cpp
+	<iostream>
+	<tollbooth.h>
+
+1571554795 c:\users\amasap dasty\desktop\oop c++\tollbooth\include\tollbooth.h
+

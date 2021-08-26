@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1572379904 source:c:\users\amasap dasty\desktop\opp c++\person\main.cpp
+	<iostream>
+	<person.h>
+	<footballer.h>
+	<athlete.h>
+
+1572378010 source:c:\users\amasap dasty\desktop\opp c++\person\src\person.cpp
+	"person.h"
+
+1572378046 c:\users\amasap dasty\desktop\opp c++\person\include\person.h
+	<iostream>
+
+1572378537 c:\users\amasap dasty\desktop\opp c++\person\include\footballer.h
+	<iostream>
+	<person.h>
+
+1572378595 source:c:\users\amasap dasty\desktop\opp c++\person\src\footballer.cpp
+	"footballer.h"
+
+1572378960 source:c:\users\amasap dasty\desktop\opp c++\person\src\athlete.cpp
+	"athlete.h"
+
+1572378960 c:\users\amasap dasty\desktop\opp c++\person\include\athlete.h
+	<iostream>
+	<person.h>
+

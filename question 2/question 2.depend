@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1574110629 source:c:\users\amasap dasty\desktop\opp c++\question 2\src\quest.cpp
+	"quest.h"
+
+1574110629 c:\users\amasap dasty\desktop\opp c++\question 2\include\quest.h
+
+1574113230 source:c:\users\amasap dasty\desktop\opp c++\question 2\src\question1.cpp
+	"question1.h"
+
+1574112116 c:\users\amasap dasty\desktop\opp c++\question 2\include\question1.h
+	<iostream>
+
+1576009843 source:c:\users\amasap dasty\desktop\opp c++\question 2\main.cpp
+	<iostream>
+	"university.h"
+	"department.h"
+
+1576009081 c:\users\amasap dasty\desktop\opp c++\question 2\include\university.h
+	<iostream>
+
+1576009160 source:c:\users\amasap dasty\desktop\opp c++\question 2\src\university.cpp
+	"university.h"
+	<iostream>
+
+1576009842 c:\users\amasap dasty\desktop\opp c++\question 2\include\department.h
+	<university.h>
+
+1576009843 source:c:\users\amasap dasty\desktop\opp c++\question 2\src\department.cpp
+	"department.h"
+	<iostream>
+
+1576011455 source:c:\users\amasap dasty\desktop\opp c++\question 2\src\staff.cpp
+	"staff.h"
+
+1576010688 c:\users\amasap dasty\desktop\opp c++\question 2\include\staff.h
+	<department.h>
+	<iostream>
+
+1576011455 source:c:\users\amasap dasty\desktop\opp c++\question 2\src\student.cpp
+	"student.h"
+	<iostream>
+
+1576011455 c:\users\amasap dasty\desktop\opp c++\question 2\include\student.h
+	<department.h>
+

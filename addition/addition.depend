@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\amasap dasty\desktop\opp c++\addition\main.cpp
+	<iostream>
+
+1571225198 c:\users\amasap dasty\desktop\opp c++\addition\include\addition.h
+
+1571225717 source:c:\users\amasap dasty\desktop\opp c++\addition\src\addition.cpp
+	"addition.h"
+
+1571225258 source:c:\users\amasap dasty\desktop\opp c++\addition\src\subtracton.cpp
+	"subtracton.h"
+
+1571225258 c:\users\amasap dasty\desktop\opp c++\addition\include\subtracton.h
+	<addition.h>
+
+1571225392 source:c:\users\amasap dasty\desktop\opp c++\addition\src\additionnew.cpp
+	"additionnew.h"
+
+1571225392 c:\users\amasap dasty\desktop\opp c++\addition\include\additionnew.h
+

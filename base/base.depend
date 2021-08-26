@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1572434934 source:c:\users\amasap dasty\desktop\opp c++\base\main.cpp
+	<iostream>
+	<base.h>
+	<derived_3.h>
+	<derived_2.h>
+
+1572432936 source:c:\users\amasap dasty\desktop\opp c++\base\src\base.cpp
+	"base.h"
+
+1572432919 c:\users\amasap dasty\desktop\opp c++\base\include\base.h
+
+1572434735 source:c:\users\amasap dasty\desktop\opp c++\base\src\derived.cpp
+	"derived.h"
+
+1572435089 c:\users\amasap dasty\desktop\opp c++\base\include\derived.h
+	<base.h>
+
+1572434760 source:c:\users\amasap dasty\desktop\opp c++\base\src\derived_2.cpp
+	"derived_2.h"
+
+1572435089 c:\users\amasap dasty\desktop\opp c++\base\include\derived_2.h
+	<base.h>
+
+1572434760 source:c:\users\amasap dasty\desktop\opp c++\base\src\derived_3.cpp
+	"derived_3.h"
+
+1572435282 c:\users\amasap dasty\desktop\opp c++\base\include\derived_3.h
+	<derived.h>
+	<derived_2.h>
+

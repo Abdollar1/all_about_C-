@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1576083842 source:c:\users\amasap dasty\desktop\opp c++\question 1\src\bank_account.cpp
+	"bank_account.h"
+
+1576083882 c:\users\amasap dasty\desktop\opp c++\question 1\include\bank_account.h
+	<iostream>
+

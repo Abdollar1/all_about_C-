@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1574120117 source:c:\users\amasap dasty\desktop\opp c++\question8\main.cpp
+	<iostream>
+	"player.h"
+	"event.h"
+
+1574119596 c:\users\amasap dasty\desktop\opp c++\question8\include\player.h
+	<iostream>
+
+1574119554 source:c:\users\amasap dasty\desktop\opp c++\question8\src\player.cpp
+	"player.h"
+
+1574120117 c:\users\amasap dasty\desktop\opp c++\question8\include\event.h
+	<player.h>
+	<iostream>
+
+1574120690 source:c:\users\amasap dasty\desktop\opp c++\question8\src\event.cpp
+	"event.h"
+
+1574120690 source:c:\users\amasap dasty\desktop\opp c++\question8\src\personnel.cpp
+	"personnel.h"
+
+1574120690 c:\users\amasap dasty\desktop\opp c++\question8\include\personnel.h
+	<player.h>
+	<iostream>
+
+1574120690 source:c:\users\amasap dasty\desktop\oop c++\question8\src\event.cpp
+	"event.h"
+
+1574120117 c:\users\amasap dasty\desktop\oop c++\question8\include\event.h
+	<player.h>
+	<iostream>
+
+1574119596 c:\users\amasap dasty\desktop\oop c++\question8\include\player.h
+	<iostream>
+
+1574119554 source:c:\users\amasap dasty\desktop\oop c++\question8\src\player.cpp
+	"player.h"
+

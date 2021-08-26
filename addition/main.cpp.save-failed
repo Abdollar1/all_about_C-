@@ -1,0 +1,19 @@
+#include <iostream>
+#include <addition.h>
+using namespace std;
+
+int main()
+{
+
+    int o,p;
+     cout<<"x"<<endl;
+     cin>>o;
+     cout<<"y"<<endl;
+     cin>>p;
+     subtracton *sub=new subtracton;
+     sub->setdata(5,8);
+     sub->getdata();
+     cout<<"sum"<<endl;
+     cout<<sum ->getdata();
+    return 0;
+}
